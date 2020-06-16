@@ -10,6 +10,10 @@ body {
 header,
 section {
   padding: 30px;
+
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
 }
 
 section.about {
@@ -28,7 +32,7 @@ section.photo2 {
   background-color: #f8edeb;
 }
 
-section.photo2 {
+section.photo3 {
   background-color: #f9dcc4;
 }
 
