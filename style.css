@@ -16,6 +16,16 @@ section {
   top: 0;
 }
 
+h1 a {
+  text-decoration: none;
+  color: #ffb5a7;
+}
+
+h1 a:hover {
+  text-decoration: underline;
+  color: #fcd5ce;
+}
+
 section.about {
   background-color: #ffb5a7;
 }
